@@ -1,0 +1,13 @@
+# 编译输出
+target/
+
+# IDE 配置
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# 其他
+*.log
